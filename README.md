@@ -16,7 +16,3 @@ Move It is a responsive website designed for a moving services company. It provi
 - CSS3
 - Bootstrap 5
 
-## Setup Instructions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/m
